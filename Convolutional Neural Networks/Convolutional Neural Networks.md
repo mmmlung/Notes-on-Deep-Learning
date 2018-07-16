@@ -1,3 +1,5 @@
+
+
 # Convolutional Neural Networks
 
 ## Week 1
@@ -42,7 +44,7 @@ Technical Note: Do not mix convolutions and cross - correlation.
 
 Adding one dimension on the size of input images (RGB 64x64x3. 3 #Channels) and filter. Image and Filter number of channels must match.
 
-![1531741096826](C:\Users\adm-mlung\Desktop\Workspace\Learning\Deep Learning Specialization\Convolutional Neural Networks\1531741096826.png)
+![1531741096826](1531741096826.png)
 
 
 
@@ -50,17 +52,17 @@ Multiple Filters
 
 
 
-![1531741380110](C:\Users\adm-mlung\Desktop\Workspace\Learning\Deep Learning Specialization\Convolutional Neural Networks\1531741380110.png)
+![1531741380110](1531741380110.png)
 
 ### One layer of a Conv Net
 
-![1531741710225](C:\Users\adm-mlung\Desktop\Workspace\Learning\Deep Learning Specialization\Convolutional Neural Networks\1531741710225.png)
+![1531741710225](1531741710225.png)
 
 
 
 Summary of Notation 
 
-![1531742142550](C:\Users\adm-mlung\Desktop\Workspace\Learning\Deep Learning Specialization\Convolutional Neural Networks\1531742142550.png)
+![1531742142550](1531742142550.png)
 
 
 
@@ -68,13 +70,13 @@ Summary of Notation
 
 Max-Pooling:
 
-![1531742729507](C:\Users\adm-mlung\Desktop\Workspace\Learning\Deep Learning Specialization\Convolutional Neural Networks\1531742729507.png)
+![1531742729507](1531742729507.png)
+
+### CNN Example
 
 
 
 ### Week 1 Wrap Up
-
-
 
 
 
